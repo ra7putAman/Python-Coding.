@@ -1,2 +1,0 @@
-# Python-Coding.
-MAR Activity
